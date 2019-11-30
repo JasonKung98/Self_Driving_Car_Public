@@ -1,6 +1,8 @@
 # Self_Driving_Car
 These are the source files that are provided by our tutor of the day, Mr.Husein Zolkepli on 30th November 2019 in the event Computer Vision for Self Driving Car Advanced Level at ADAX Kuala Lumpur. 
 
+Link for this repository: https://github.com/JasonKung98/Self_Driving_Car
+
 Useful links for the course:
 https://codebunk.com/b/7571100044630/
 https://github.com/tensorflow/models/blob/master/research/deeplab/g3doc/cityscapes.md
